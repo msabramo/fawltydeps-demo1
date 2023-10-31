@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/msabramo/FawltyDeps
-    rev: GH-385-fix-my-fork-tag
+    rev: GH-385
     hooks:
       - id: check-undeclared
         args:
