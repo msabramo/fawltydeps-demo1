@@ -1,7 +1,7 @@
 repos:
-  - repo: https://github.com/tweag/FawltyDeps
-    rev: v0.13.1
+  - repo: https://github.com/msabramo/FawltyDeps
+    rev: GH-385-fix-my-fork-tag
     hooks:
-      - id: check
+      - id: check-undeclared
         args:
           - --detailed
