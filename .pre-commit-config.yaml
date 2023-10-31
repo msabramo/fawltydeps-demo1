@@ -7,3 +7,5 @@ repos:
           - --detailed
           - --code     # --code always has to be last argument, because it must precede list of files
       - id: check-unused
+        args:
+          - --detailed
