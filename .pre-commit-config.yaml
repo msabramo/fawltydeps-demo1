@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/msabramo/FawltyDeps
-    rev: 72512447f81236f981aaee12a6f93a4f7052d7a4
+    rev: 4bca742
     hooks:
       - id: check-undeclared
         args:
